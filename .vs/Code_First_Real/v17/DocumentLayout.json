@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\controllers\\diemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\controllers\\diemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\models\\qlsvdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\models\\qlsvdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\models\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\models\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\models\\datainli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\models\\datainli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|e:\\ky_7\\lap_trinh_ung_dung_doanh_nghiep_net\\code_first_real\\code_first_real\\views\\diems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\views\\diems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\code_first_real\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D92BC3A-9C92-4FB5-8A03-2B01627A48EC}|Code_First_Real\\Code_First_Real.csproj|solutionrelative:code_first_real\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Views\\Diems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Code_First_Real\\Views\\Diems\\Edit.cshtml",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Views\\Diems\\Edit.cshtml",
+              "RelativeToolTip": "Code_First_Real\\Views\\Diems\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T03:23:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiemsController.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Controllers\\DiemsController.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Controllers\\DiemsController.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Controllers\\DiemsController.cs",
+              "RelativeToolTip": "Code_First_Real\\Controllers\\DiemsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:04:44.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataInli.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\DataInli.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Models\\DataInli.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\DataInli.cs",
+              "RelativeToolTip": "Code_First_Real\\Models\\DataInli.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:36:54.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Global.asax.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Global.asax.cs",
+              "RelativeToolTip": "Code_First_Real\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:32:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\Diem.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Models\\Diem.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\Diem.cs",
+              "RelativeToolTip": "Code_First_Real\\Models\\Diem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:13:09.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Models\\SinhVien.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\SinhVien.cs",
+              "RelativeToolTip": "Code_First_Real\\Models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:12:57.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLSVDataContext.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\QLSVDataContext.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Models\\QLSVDataContext.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Models\\QLSVDataContext.cs",
+              "RelativeToolTip": "Code_First_Real\\Models\\QLSVDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:28:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhViensController.cs",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Controllers\\SinhViensController.cs",
+              "RelativeDocumentMoniker": "Code_First_Real\\Controllers\\SinhViensController.cs",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Controllers\\SinhViensController.cs",
+              "RelativeToolTip": "Code_First_Real\\Controllers\\SinhViensController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:57:00.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Views\\SinhViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Code_First_Real\\Views\\SinhViens\\Index.cshtml",
+              "ToolTip": "E:\\Ky_7\\Lap_trinh_ung_dung_doanh_nghiep_NET\\Code_First_Real\\Code_First_Real\\Views\\SinhViens\\Index.cshtml",
+              "RelativeToolTip": "Code_First_Real\\Views\\SinhViens\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T02:59:33.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
